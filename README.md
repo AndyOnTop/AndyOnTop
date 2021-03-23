@@ -1,16 +1,14 @@
-### Hi there 👋
+About this lib:
+-----------------
+Thanks for using my libary
 
-<!--
-**AndyOnTop/AndyOnTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Module Functions
+-----------------
+- get_hwid() // Getting a clients Hwid.
+- get_ip() // Getting a clients Ip.
+- geo_location(ip) // Getting a clients geo location.
+- ascii() // Turns text into Ascii.
+- webhook_name(name, webhook_url) // Changes a webhooks name. (Discord)
+- webhook_delete(webhook_url) // Deletes a webhook. (Discord)
+- webhook_spammer(webhook_url, message)
+- Check examples.txt for examples of the Functions.
