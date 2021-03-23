@@ -11,4 +11,4 @@ Module Functions
 - webhook_name(name, webhook_url) // Changes a webhooks name. (Discord)
 - webhook_delete(webhook_url) // Deletes a webhook. (Discord)
 - webhook_spammer(webhook_url, message)
-- Check examples.txt for examples of the Functions.
+- Check examples for examples of the Functions.
